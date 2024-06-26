@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NextJS and Tailwind
 - 💞️ I’m looking to collaborate on Projects at Incred
 - 📫 How to reach me praneet.jaiswal@incred.com
-- ⚡ Fun fact: I know Japanese
+- ⚡ Fun fact: わたしは日本語を知っています (I know Japanese)
 
 <!---
 PraneetJ-Incred/PraneetJ-Incred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
