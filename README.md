@@ -3,7 +3,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning NextJS and Tailwind
 - 💞️ I’m looking to collaborate on Projects at Incred Money
-- 📫 How to reach me praneet.jaiswal@incred.com
+- 📫 How to reach me praneet.jaiswal@incredmoney.com
 - 🗣 I can talk in : English, Hindi, Marathi, Gujrati, Bhojpuri & Japanese 
 - ⚡ Fun fact: わたしは日本語を知っています (I know Japanese)
 
