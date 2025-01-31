@@ -10,11 +10,14 @@
 # Tech Stack
 - JavaScript/TypeScript
 - ReactJS
+- NodeJS
+- Express
+- MongoDB
 - NextJS
 - CSS
 - Chakra UI
 - Mantine UI
-- Tailwind CSS (In Progress)
+- Tailwind CSS
 - Storybooks
 <!---
 PraneetJ-Incred/PraneetJ-Incred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
